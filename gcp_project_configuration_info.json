@@ -1,7 +1,7 @@
 {
   "GCP_PROJECT_ID": "staging-389908",
   "GCP_REGION": "us-central1",
-  "GCP_ZONE": "us-central1-a",
+  "GCP_ZONE": "us-central1-c",
   "GCP_BUCKET_NAME": "terraform-state-staging-389908",
-  "GCP_TF_SA_CREDS_BASE64": "<YOUR_ENCODED_BASE64_KEY>"
+  "GCP_TF_SA_CREDS_BASE64": "GCP_TF_SA_CREDS_BASE64"
 }
